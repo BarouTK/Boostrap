@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.conteiner-fluid {
+  background-image: url(http://clubgodoycruz.com.ar/wp-content/uploads/2016/04/football-the-field-turf-grass-counting-center.jpeg?id=1425) !important;
+  background-repeat: no-repeat;  
+}
+
