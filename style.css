@@ -1,0 +1,25 @@
+.cabecera{
+    height: 300px;
+}
+
+.logo{
+    position: relative;
+    top: 30px;
+}
+
+.navbar{
+    
+    
+    font-size: 11px;
+    font-weight: bold;
+    
+}
+
+navbar:hover{
+    color: #6610f2;
+}
+
+.imagen{
+    background-image: url(http://clubgodoycruz.com.ar/wp-content/uploads/2016/04/football-the-field-turf-grass-counting-center.jpeg?id=1425) !important;
+  background-repeat: no-repeat;  
+}
